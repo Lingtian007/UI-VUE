@@ -1,0 +1,77 @@
+{
+  "zh-CN": [
+    {
+      "name": "开发指南",
+      "groups": [
+        {
+          "list": [
+            {
+              "path": "/intro",
+              "title": "项目介绍"
+            },
+            {
+              "path": "/quickstart",
+              "title": "快速上手"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lijoyui 组件",
+      "showInMobile": true,
+      "groups": [
+          {
+            "groupName": "常用组件",
+            "list": [
+              {
+                "path": "/selecttime",
+                "title": "常用时间组件"
+              },
+              {
+                "path": "/selectlist",
+                "title": "因子测点列表组件"
+              },
+              {
+                "path": "/Itemlist",
+                "title": "因子列表组件"
+              },
+              {
+                "path": "/scxz",
+                "title": "沙尘选择"
+              },
+              {
+                "path": "/datasource",
+                "title": "数据源组件"
+              },
+              {
+                "path": "/HSet",
+                "title": "高级设置组件"
+              },
+              {
+                "path": "/citycd",
+                "title": "点位组合组件"
+              },
+              {
+                "path": "/ItemGroup",
+                "title": "因子组合组件"
+              },
+              {
+                "path": "/Export2Excel",
+                "title": "导出报表组件"
+              },
+              {
+                "path": "/comchart",
+                "title": "echarts公共组件"
+              },
+              {
+                "path": "/vue-bigdata-table",
+                "title": "vue-bigdata-table公共组件"
+              }
+            ]
+          }
+        
+      ]
+    }
+  ]
+}
